@@ -1,0 +1,30 @@
+.contact-form {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 20px;
+}
+
+.contact-form label {
+  margin: 10px 0 5px;
+}
+
+.contact-form input {
+  margin-bottom: 10px;
+  padding: 8px;
+  width: 100%;
+  max-width: 300px;
+}
+
+.contact-form span {
+  color: red;
+  font-size: 12px;
+}
+
+.contact-form button {
+  background-color: #282c34;
+  color: white;
+  border: none;
+  padding: 10px;
+  cursor: pointer;
+}

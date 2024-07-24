@@ -1,0 +1,19 @@
+.slider {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 20px;
+}
+
+.slide {
+  width: 80%;
+  margin: 0 20px;
+}
+
+button {
+  background-color: #282c34;
+  color: white;
+  border: none;
+  padding: 10px;
+  cursor: pointer;
+}
